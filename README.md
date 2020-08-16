@@ -1,5 +1,5 @@
-# Stores - SQLAlchemy
+# SQLAlchemy - Stores 
 
 An API that allows you to create stores and post items with prices. You can get specific items/store, update prices of items, delete stores/items, and view all stores/items.
 
-Simple database using SQLAlchemy and RESTful API using Flask. Programmed with Python.
+Build with Flask-SQLAlchemy, Flask-RESTful, Flask-JWT using Python. Deployed on Heroku with Postgres database.
